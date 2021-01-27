@@ -3,7 +3,7 @@
 SpeedyPizzaDrones is born as a FPV Racing Team and growing as a brand. In this Github we will post all our works, instructions, and so on.
 
 ## Mounting Board 
-The Mounting Board has the following features:
+Mounting Board has the following features:
 
 * Multi-color RGB LED strip support via connectors
 * 20x20 M3
