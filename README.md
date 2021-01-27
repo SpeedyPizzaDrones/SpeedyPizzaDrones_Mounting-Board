@@ -1,6 +1,6 @@
 ![SpeedyPizzaDrones](https://github.com/Barux/SpeedyPizzaDrones/blob/main/SPD%20LOGO/SpeedyPizzaDrones_T2.png)
 
-SpeedyPizzaDrones is born as a FPV Racing Team and growing as a brand. In this Github we will post all our works, instructions, and so on.
+
 
 ## Mounting Board 
 Mounting Board has the following features:
